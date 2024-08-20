@@ -3,4 +3,4 @@ module github.com/WaterLemons2k/hugo-theme-next/v4
 
 go 1.16
 
-retract v4.5.7
+retract [v4.0.0, v4.5.7]
